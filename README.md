@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#how-to-use">How To Use</a> •
   <a href="#license">License</a> •
-  <a href="#author">Author</a>
+
 </p>
 
 MTA-STS is a security standard to secure e-mail delivery. E-mail servers that send inbound e-mail to your domain will be able to detect that your e-mail server supports SMTP-over-TLS via `STARTTLS` (also known as [Opportunistic TLS](https://en.wikipedia.org/wiki/Opportunistic_TLS)) before opening the actual connection.
